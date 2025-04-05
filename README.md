@@ -1,0 +1,1 @@
+The Movie Recommendation System Using Popularity-Based Filtering suggests movies based on overall popularity, such as average ratings and number of user reviews. This approach doesn't require user-specific data, making it simple and effective for recommending trending or widely liked movies. It's a great starting point for building more complex recommendation systems. 
